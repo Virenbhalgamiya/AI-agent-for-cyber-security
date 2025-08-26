@@ -1,10 +1,6 @@
-# cyber-security-llm-agents
+# Cyber-Security-llm-agents
 A collection of agents that use Large Language Models (LLMs) to perform tasks common on our day to day jobs in cyber security.
 Built on top of [AutoGen](https://microsoft.github.io/autogen/).
-
-Released as part of our talks at RSAC2024:  
-[From Chatbot to Destroyer of Endpoints: Can ChatGPT Automate EDR Bypasses?](https://www.rsaconference.com/USA/agenda/session/From%20Chatbot%20to%20Destroyer%20of%20Endpoints%20Can%20ChatGPT%20Automate%20EDR%20Bypasses)  
-[The Always-On Purple Team: An Automated CI/CD for Detection Engineering](https://www.rsaconference.com/USA/agenda/session/The%20Always-On%20Purple%20Team%20An%20Automated%20CICD%20for%20Detection%20Engineering)
 
 <figure align="center">
   <img src="documentation/videos/detect_edr.gif" alt="Detecting EDR"/>
